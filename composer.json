@@ -1,0 +1,22 @@
+{
+    "name": "karlmacz/chikka",
+    "description": "Chikka API for Laravel 5",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Karl T. Macadangdang",
+            "email": "karljarren0308@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.5",
+        "illuminate/support": "5.2.*",
+        "guzzlehttp/guzzle": "6.2",
+        "symfony/psr-http-message-bridge": "1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "KarlMacz\\Chikka\\": "src/"
+        }
+    }
+}
