@@ -82,7 +82,7 @@ When `CHIKKA_STORE_TRANSACTIONS` is set to `true` in your project's `.env` file,
 
 All you have to do now is to add `/chikka/receive` path to the **Message Receiver URL** in the [Chikka API Settings Page](https://api.chikka.com/api/settings)
 
-![Sample Image](https://github.com/KarlJarren0308/Chikka/blob/master/docs/images/chikka_api_settings.png)
+![Sample Image](https://github.com/KarlMacz/Chikka/blob/master/docs/images/chikka_api_settings.png)
 
 ## Note
 
@@ -100,4 +100,4 @@ But, when making a HTTP POST Request to the `/chikka/send` path using AJAX, the 
 ```
 
 ## License
-This package is licensed under the [MIT License](https://github.com/KarlJarren0308/Chikka/blob/master/LICENSE).
+This package is licensed under the [MIT License](https://github.com/KarlMacz/Chikka/blob/master/LICENSE).
