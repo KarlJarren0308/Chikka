@@ -98,3 +98,6 @@ But, when making a HTTP POST Request to the `/chikka/send` path using AJAX, the 
 ```
 { 'status': 'Success', 'message': 'Message sent.' }
 ```
+
+## License
+This package is licensed under the [MIT License](./LICENSE)
