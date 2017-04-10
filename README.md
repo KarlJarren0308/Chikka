@@ -100,4 +100,4 @@ But, when making a HTTP POST Request to the `/chikka/send` path using AJAX, the 
 ```
 
 ## License
-This package is licensed under the [MIT License](https://github.com/KarlJarren0308/Chikka/blob/master/LICENSE)
+This package is licensed under the [MIT License](https://github.com/KarlJarren0308/Chikka/blob/master/LICENSE).
